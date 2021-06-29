@@ -17,6 +17,6 @@ namespace MediatorPattern
                 Tester.Notify(message);
             }
             else Customer.Notify(message);
-        }
+        }   
     }
 }
